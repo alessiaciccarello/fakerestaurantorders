@@ -1,0 +1,17 @@
+{
+  "name": "fake-restaurant-package-ac",
+  "version": "0.0.2",
+  "description": "a simple package to manage a fake restaurant's orders array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restaurant",
+    "orders",
+    "fake",
+    "orders"
+  ],
+  "author": "alessiaciccarello <alessiaciccarello@hotmail.it>",
+  "license": "MIT"
+}
